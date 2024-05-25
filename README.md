@@ -6,9 +6,9 @@
 
 ---
 ![Yang Line's GitHub stats](https://github-readme-stats-nine-kappa-35.vercel.app/api?username=YangLine&count_private=true&theme=dark) 
-![Top Langs](https://github-readme-stats-nine-kappa-35.vercel.app/api/top-langs/?username=YangLine&layout=compact&theme=dark)
+
 ---
 
 ~*↑十分穷酸的统计*~
 
-~话说这个统计抽什么风啊，php 和 Java 项目全不算几个意思，全算 HTML 和 CSS 头上。~
+
