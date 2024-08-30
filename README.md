@@ -1,5 +1,7 @@
 <a href="https://wakatime.com/@YangLine" target="_blank">
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=💻 Yang Line's coding stats" alt="Yang Line's stats">
+    <img width="50%" align="right"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=💻 Yang Line's coding stats"
+        alt="Yang Line's stats">
 </a>
 
 <h2>👋 Hi there</h2>
@@ -7,7 +9,9 @@
 <p>
     An ordinary student, can write front-end, currently learning Java and Rust.
 </p>
-<p>I love Minecraft <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a><bold></p>
+<p>I love Minecraft <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a>
+        <bold>
+</p>
 
 <h3> 💪 I can </h3>
 <div align="center">
@@ -25,7 +29,8 @@
 <h3> 👾 Find me at discord </h3>
 <a href="https://discord.com/users/1130166359217688667" target="_blank">
     <div align="center">
-        <img src="https://lanyard.cnrad.dev/api/1130166359217688667?bg=0d1117&borderRadius=1rem&idleMessage=I'm doing nothing ㄟ( ▔, ▔ )ㄏ" alt="Discord">
+        <img src="https://lanyard.cnrad.dev/api/1130166359217688667?bg=0d1117&borderRadius=1rem&idleMessage=I'm doing nothing ㄟ( ▔, ▔ )ㄏ"
+            alt="Discord">
     </div>
 </a>
 <hr>
