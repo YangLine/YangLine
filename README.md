@@ -1,6 +1,6 @@
 <a href="https://wakatime.com/@YangLine" target="_blank">
     <img width="50%" align="right"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=1rem&theme=dark&border_color=1f6feb&range=all_time&custom_title=💻 Yang Line's coding stats"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=💻 Yang Line's coding stats"
         alt="Yang Line's stats">
 </a>
 
@@ -9,8 +9,9 @@
 <p>
     An ordinary student, can write front-end, currently learning Java and Rust.
 </p>
-<p>I love Minecraft <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a>
-        <bold>
+<p>
+    I love Minecraft
+    <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a></bold>
 </p>
 
 <h3> 💪 I can </h3>
