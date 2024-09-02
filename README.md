@@ -16,8 +16,8 @@
 
 <h3> 💪 I can </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue" height="50px" alt="I can" align="center"><br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,php,lua,rust" height="50px" alt="I can" align="center"><br><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react" height="50px" alt="I can" align="center"><br><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,lua,rust" height="50px" alt="I can" align="center"><br><br>
 </div>
 <hr>
 
