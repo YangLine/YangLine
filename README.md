@@ -1,4 +1,4 @@
-<a href="https://wakatime.com/@YangLine" target="_blank">
+  <a href="https://wakatime.com/@YangLine" >
     <img width="50%" align="right"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=%F0%9F%92%BB%20Yang%20Line%27s%20coding%20stats"
         alt="Yang Line's stats">
@@ -17,20 +17,27 @@
 <h3> 💪 I can </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react" height="50px" alt="I can" align="center"><br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,lua,rust" height="50px" alt="I can" align="center"><br><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,lua,c" height="50px" alt="I can" align="center"><br><br>
+    <code>A little bit bruh :)</code><br><br>
+    <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
+<pre align="left">Me.whenWrite(<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50px" alt="Fuck" align="center"></a>, () => {
+    throw Error("Crash", e);
+    Thread.sleep(1day);
+});</pre>
+    
 </div>
 <hr>
-
 <h3> ☁ Most used </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,gradle,nginx,github,cloudflare" height="50px" alt="Most used">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,gradle,github,cloudflare" height="50px" alt="Most used"><br><br>
+    <img src="https://skillicons.dev/icons?i=nginx,ubuntu,visualstudio" height="50px" alt="Most used">
 </div>
 <hr>
 
 <h3> 👾 Find me at discord </h3>
 <a href="https://discord.com/users/1130166359217688667" target="_blank">
     <div align="center">
-        <img src="https://lanyard.cnrad.dev/api/1130166359217688667?bg=0d1117&borderRadius=1rem&idleMessage=I%27m%20doing%20nothing%20%E3%84%9F(%20%E2%96%94,%20%E2%96%94%20)%E3%84%8F"
+        <img width="40%" src="https://lanyard.cnrad.dev/api/1130166359217688667?bg=0d1117&borderRadius=1rem&idleMessage=I%27m%20doing%20nothing%20%E3%84%9F(%20%E2%96%94,%20%E2%96%94%20)%E3%84%8F"
             alt="Discord">
     </div>
 </a>
