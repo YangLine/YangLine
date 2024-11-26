@@ -30,7 +30,7 @@
 <h3> ☁ Most used </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,gradle,github,cloudflare" height="50px" alt="Most used"><br><br>
-    <img src="https://skillicons.dev/icons?i=nginx,ubuntu,visualstudio" height="50px" alt="Most used">
+    <img src="https://skillicons.dev/icons?i=nginx,arch,ubuntu,visualstudio" height="50px" alt="Most used">
 </div>
 <hr>
 
