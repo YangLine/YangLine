@@ -7,12 +7,14 @@
 <h2>👋 Hi there</h2>
 <h3>I'm Yang Line</h3>
 <p>
-    An ordinary student, can write front-end, currently learning Java and Rust.
+  Full stack programmer, from SG, currently learning Java and C.
+  
+  I don't have a vernier caliper so I don't like Python.
 </p>
-<p>
+<!-- <p>
     I love Minecraft
     <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a></bold>
-</p>
+</p> -->
 
 <h3> 💪 I can </h3>
 <div align="center">
@@ -21,8 +23,8 @@
     <code>A little bit bruh :)</code><br><br>
     <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
 <pre align="left">Me.whenWrite(<a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50px" alt="Fuck" align="center"></a>, () => {
-    throw Error("Crash", e);
-    Thread.sleep(1day);
+    throw new BrainCrashException("🤯");
+    Thread.sleep(new Date().setDate(new Date().getDate() + 1));
 });</pre>
     
 </div>
