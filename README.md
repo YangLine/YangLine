@@ -22,10 +22,10 @@
     <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,lua,c" height="50px" alt="I can" align="center"><br><br>
     <code>A little bit bruh :)</code><br><br>
     <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
-<pre align="left">public class Me {
+<pre align="left">class Me {
     public void coding(Language lang) {
         if (lang instanceof <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50px" alt="Fuck" align="center"></a>) {
-            throw new BrainCrashException("🤯");
+            throw new BrainCrashError("🤯");
             Thread.sleep(86400000);
         }
     }
