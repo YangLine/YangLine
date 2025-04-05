@@ -23,10 +23,11 @@
     <code>A little bit bruh :)</code><br><br>
     <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
 <pre align="left">class Me {
-    public void coding(Language lang) {
-        if (lang instanceof <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="50px" alt="Fuck" align="center"></a>) {
-            throw new BrainCrashError("🤯");
-            Thread.sleep(86400000);
+class Me {
+    fun coding(lang: Language) {
+        if (lang is Python) {
+            throw BrainCrashError("🤯")
+            Thread.sleep(86400000)
         }
     }
 }</pre>
