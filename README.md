@@ -23,7 +23,6 @@
     <code>A little bit bruh :)</code><br><br>
     <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
 <pre align="left">class Me {
-class Me {
     fun coding(lang: Language) {
         if (lang is Python) {
             throw BrainCrashError("🤯")
