@@ -5,7 +5,7 @@
 </a>
 
 <h2>👋 Hi there</h2>
-<h3>I'm Yang Line</h3>
+<h3>I'm Line Yang</h3>
 <p>
   Full stack programmer, from SG, currently learning Java and C.
   
