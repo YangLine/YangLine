@@ -1,5 +1,5 @@
   <a href="https://wakatime.com/@YangLine" >
-    <img width="50%" align="right"
+    <img width="40%" align="right"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=%F0%9F%92%BB%20Yang%20Line%27s%20coding%20stats"
         alt="Yang Line's stats">
 </a>
@@ -7,9 +7,9 @@
 <h2>👋 Hi there</h2>
 <h3>I'm Line Yang</h3>
 <p>
-  Full stack programmer, from SG, currently learning Java and C.
+  1/2 stack programmer, from SG, currently learning Android & Zig.
   
-  I don't have a vernier caliper so I don't like Python.
+  I don't afford vernier caliper so don't like Python.
 </p>
 <!-- <p>
     I love Minecraft
@@ -18,10 +18,14 @@
 
 <h3> 💪 I can </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react" height="50px" alt="I can" align="center"><br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,lua,c" height="50px" alt="I can" align="center"><br><br>
-    <code>A little bit bruh :)</code><br><br>
-    <img src="https://skillicons.dev/icons?i=cs,dart,cpp,flutter,go,linux" height="50px" alt="A little bit" align="center"><br><br><br>
+  <h4>Fonrtend</h2>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro" height="50px" alt="I can" align="center"><br>
+  <h4>Backend</h2>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,spring,ktor" height="50px" alt="I can" align="center"><br>
+  <h4>🤔</h2>
+    <img src="https://skillicons.dev/icons?i=zig,androidstudio,cs" height="50px" alt="I can" align="center"><br>
+  <code>Just little :)</code><br><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,dart,flutter,vue,linux,blender" height="50px" alt="A little bit" align="center"><br><br><br>
 <pre align="left">class Me {
     fun coding(lang: Language) {
         if (lang is Python) {
@@ -35,8 +39,8 @@
 <hr>
 <h3> ☁ Most used </h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,gradle,github,cloudflare" height="50px" alt="Most used"><br><br>
-    <img src="https://skillicons.dev/icons?i=nginx,arch,ubuntu,visualstudio" height="50px" alt="Most used">
+    <img src="https://skillicons.dev/icons?i=idea,vscode,clion,webstorm,gradle,github,cloudflare" height="50px" alt="Most used"><br><br>
+    <img src="https://skillicons.dev/icons?i=arch,visualstudio,notion" height="50px" alt="Most used">
 </div>
 <hr>
 
