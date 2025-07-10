@@ -20,7 +20,7 @@
 
 <h3> 💪 I can </h3>
 <div align="center">
-  <h4>Fonrtend</h2>
+  <h4>Frontend</h2>
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro" height="50px" alt="I can" align="center"><br>
   <h4>Backend</h2>
     <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,spring,ktor" height="50px" alt="I can" align="center"><br>
