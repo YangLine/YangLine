@@ -7,11 +7,9 @@
 <h2>👋 Hi there</h2>
 <h3>I'm Line Yang</h3>
 <p>
-  NaN stack programmer, from SG, currently learning Android & Zig.
+  NaN stack programmer, from SG, currently learning Android.
 
   🙌😶‍🌫️😨😭🙌
-  
-  When you want to measure python but caliper price make you cry 😭✋ Better code in JavaScript – ruler can buy from Daiso $2 only!
 </p>
 <!-- <p>
     I love Minecraft
@@ -49,44 +47,15 @@
 <hr>
 
 ``` kt
---- test/Me.kt
-+++ src/EnterpriseMultiPlatformLanguageStrategyOrchestratorV2.kt
-@@ -1,7 +1,33 @@
--class Me {
--    fun coding(lang: Language) {
--        if (lang is Python) {
--            throw BrainCrashError("🤯")
--            Thread.sleep(86400000)
--        }
--    }
-+interface LanguageStrategy {
-+    fun execute(context: CodingContext)
-+}
-+
-+class PythonStrategy : LanguageStrategy {
-+    override fun execute(context: CodingContext) {
-+        throw CognitiveOverloadException("🤯")
-+            .also { Thread.sleep(Duration.ofDays(1).toMillis()) }
-+    }
-+}
-+
-+data class CodingContext(val language: Language)
-+
-+class StrategyRegistry<K, V> {
-+    private val registry = mutableMapOf<K, V>()
-+    fun register(key: K, value: V) { registry[key] = value }
-+    fun getStrategy(key: K): V? = registry[key]
-+}
-+
-+class EnterpriseCodingExecutor(
-+    private val strategyRegistry: StrategyRegistry<Language, LanguageStrategy>
-+) {
-+    fun execute(context: CodingContext) {
-+        strategyRegistry
-+            .getStrategy(context.language)
-+            ?.execute(context)
-+            ?: throw UnsupportedLanguageException("Unrecognized language: ${context.language}")
-+    }
+class Me {
+    fun coding(lang: Language) {
+        if (lang is Python) {
+            throw BrainCrashError("🤯")
+            Thread.sleep(86400000)
+        } else if (lang is Kotlin) {
+            Work.powerMode(true)
+        }
+    }
  }
 ```
 
