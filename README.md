@@ -10,11 +10,9 @@
   NaN stack programmer, from SG, currently learning Android.
 
   🙌😶‍🌫️😨😭🙌
+
+  Minecraft developer, mods & Fabric
 </p>
-<!-- <p>
-    I love Minecraft
-    <bold>Find me at <a href="https://namemc.com/YangLineMC">NameMC</a></bold>
-</p> -->
 
 <h3> 💪 I can </h3>
 <div align="center">
