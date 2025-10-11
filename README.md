@@ -4,34 +4,50 @@
         alt="Yang Line's stats">
 </a>
 
+<p>
+READ ME
+
+Yes read this.
+
+I could have probably said something important here, but no, I have chosen to waste your time. Without remorse, yes, cruel, super bad, so that this sentence was copied from somway.
+</p>
+
 <h2>👋 Hi there</h2>
 <h3>I'm Line Yang</h3>
 <p>
-  NaN stack programmer, from SG, currently learning Android.
+  <code>#define NaN FULL</code>
+  
+  NaN stack programmer.
 
   🙌😶‍🌫️😨😭🙌
 
-  Minecraft developer, mods & Fabric
+  Why not Kotlin?
+  
+  _loves.kt_
 </p>
 
 <h3> 💪 I can </h3>
 <div align="center">
   <h4>Frontend</h2>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro" height="50px" alt="I can" align="center"><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,kotlin" height="50px" alt="I can" align="center"><br>
+  <br>
+  <p>
+    <delete>So, in case you don know, compose can also write front-end. But you see, that skillicon's 1k issues are still so many today, so only be replaced with a kt icon loh.</delete>
+  </p>
   <h4>Backend</h2>
     <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,spring,ktor" height="50px" alt="I can" align="center"><br>
   <h4>🤔</h2>
     <img src="https://skillicons.dev/icons?i=zig,androidstudio,cs" height="50px" alt="I can" align="center"><br>
   <br>
   <code>Just little :)</code><br><br>
-    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,dart,flutter,vue,linux,blender" height="50px" alt="A little bit" align="center"><br><br><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,dart,flutter,vue,linux" height="50px" alt="A little bit" align="center"><br><br><br>
     
 </div>
 <hr>
 <h3> ☁ Most used </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=idea,vscode,clion,webstorm,gradle,github,cloudflare" height="50px" alt="Most used"><br><br>
-    <img src="https://skillicons.dev/icons?i=arch,visualstudio,notion" height="50px" alt="Most used">
+    <img src="https://skillicons.dev/icons?i=arch,visualstudio,blender,notion" height="50px" alt="Most used">
 </div>
 <hr>
 
