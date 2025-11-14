@@ -64,7 +64,7 @@ I could have probably said something important here, but no, I have chosen to wa
 class Me {
     fun coding(lang: Language) {
         if (lang is Python) {
-            throw BrainCrashError("🤯")
+            throw NoSuchBrainException("🤯")
             Thread.sleep(86400000)
         } else if (lang is Kotlin) {
             Work.powerMode(true)
