@@ -9,7 +9,7 @@ READ ME
 
 Yes read this.
 
-I could have probably said something important here, but no, I have chosen to waste your time. Without remorse, yes, cruel, super bad, so that this sentence was copied from somway.
+I could have probably said something important here, but no, I have chosen to waste your time. Without remorse, yes, cruel, super bad, so much so that this sentence was copied from somewhere.
 </p>
 
 <h2>👋 Hi there</h2>
