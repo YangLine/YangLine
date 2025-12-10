@@ -6,6 +6,11 @@
 
 <p>
 Line? Whats Line? Its the tagline, yep, literally
+
+<!---<details>
+  Maybe, you've read this myself pitful self-introduction. Regarding my name, unfortunately, due to some gov issues, I really can’t use my previous English nickname, it too my true Engliname. As for now, let’s just leave it like this. I haven’t decided yet.
+</details>--->
+<!---Maybe somebody will see this? but idknow, thats it all--->
   
 READ ME
 
