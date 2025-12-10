@@ -15,7 +15,7 @@ I could have probably said something important here, but no, I have chosen to wa
 </p>
 
 <h2>👋 Hi there</h2>
-<h3>I'm Line Yang</h3>
+<h3>I'm Lynn Yang</h3>
 <p>
   <code>#define NaN FULL</code>
   
