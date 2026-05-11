@@ -1,17 +1,11 @@
   <a href="https://wakatime.com/@YangLine" >
-    <img width="40%" align="right"
+    <!-- <img width="40%" align="right"
         src="https://github-readme-stats.vercel.app/api/wakatime?username=YangLine&border_radius=13px&theme=dark&border_color=1f6feb&range=all_time&custom_title=%F0%9F%92%BB%20Yang%20Line%27s%20coding%20stats"
-        alt="Yang Line's stats">
+        alt="Yang Line's stats"> -->
+    github-readme-stats.vercel.app
 </a>
 
 <p>
-Line? Whats Line? Its the tagline, yep, literally
-
-<!---<details>
-  Maybe, you've read this myself pitful self-introduction. Regarding my name, unfortunately, due to some gov issues, I really can’t use my previous English nickname, it too my true Engliname. As for now, let’s just leave it like this. I haven’t decided yet.
-</details>--->
-<!---Maybe somebody will see this? but idknow, thats it all--->
-  
 READ ME
 
 Yes read this.
@@ -29,8 +23,6 @@ I could have probably said something important here, but no, I have chosen to wa
   🙌😶‍🌫️😨😭🙌
 
   Why not Kotlin?
-  
-  _loves.kt_
 </p>
 
 <h3> 💪 I can </h3>
@@ -39,7 +31,7 @@ I could have probably said something important here, but no, I have chosen to wa
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,kotlin" height="50px" alt="I can" align="center"><br>
   <br>
   <p>
-    <delete>So, in case you don know, compose can also write front-end. But you see, that skillicon's 1k issues are still so many today, so only be replaced with a kt icon loh.</delete>
+    <delete>So, in case you don know, compose can also write front-end. But you see, that skillicon's 1k issues are still so many today, so only be replaced with a kt icon.</delete>
   </p>
   <h4>Backend</h2>
     <img src="https://skillicons.dev/icons?i=java,kotlin,php,ruby,spring,ktor" height="50px" alt="I can" align="center"><br>
