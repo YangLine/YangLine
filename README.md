@@ -61,12 +61,14 @@ I could have probably said something important here, but no, I have chosen to wa
 
 ``` kt
 class Me {
-    fun coding(lang: Language) {
-        if (lang is Python) {
-            throw NoSuchBrainException("🤯")
-            Thread.sleep(86400000)
-        } else if (lang is Kotlin) {
-            Work.powerMode(true)
+    suspend fun coding(lang: Language) {
+        when (lang) {
+            is Python -> {
+                throw NoSuchBrainException("🤯")
+                sleep(1.days)
+            is Kotlin -> {
+                Work.powerMode(true)
+            }
         }
     }
  }
